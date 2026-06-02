@@ -1,0 +1,25 @@
+# ============================================================
+# robots.txt — mitrabudijaya.com
+# Mitra Budi Jaya | Jasa Poles Lantai Marmer, Granit, Teraso & Keramik
+# ============================================================
+
+# ── Googlebot (Google Search) ────────────────────────────────
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# ── Googlebot-Image ──────────────────────────────────────────
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+# ── Bingbot (Bing Search) ────────────────────────────────────
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+# ── Semua crawler lainnya ────────────────────────────────────
+User-agent: *
+Allow: /
+
+# ── Sitemap ──────────────────────────────────────────────────
+Sitemap: https://www.mitrabudijaya.com/sitemap.xml
