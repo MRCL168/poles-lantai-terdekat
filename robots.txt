@@ -1,5 +1,5 @@
 # ============================================================
-# robots.txt — mitrabudijaya.com
+# robots.txt — poleslantai.terdekat.web.id
 # Mitra Budi Jaya | Jasa Poles Lantai Marmer, Granit, Teraso & Keramik
 # ============================================================
 
@@ -22,4 +22,4 @@ User-agent: *
 Allow: /
 
 # ── Sitemap ──────────────────────────────────────────────────
-Sitemap: https://www.mitrabudijaya.com/sitemap.xml
+Sitemap: https://poleslantai.terdekat.web.id/sitemap.xml
